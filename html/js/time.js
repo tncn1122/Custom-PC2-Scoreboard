@@ -1,8 +1,8 @@
-// Set the begin date
+// Set the begin date here:
 var dateBegin = new Date("Mar 8, 2020 19:30:00").getTime()
-// Set the freeze time
+// Set the freeze time here:
 var timeFrozen = 60; //minutes
-// Set the length of contest
+// Set the length of contest here:
 var lengthContest = 300; // minutes
 
 
